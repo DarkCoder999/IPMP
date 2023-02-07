@@ -1,5 +1,7 @@
-#https://leetcode.com/problems/binary-search/description/
-#Problem 704
+/*
+https://leetcode.com/problems/binary-search/description/
+Problem 704 
+*/
 
 class Solution {
 public:
