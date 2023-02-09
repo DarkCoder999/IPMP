@@ -1,4 +1,4 @@
-#Swap nibbles
+#Swap nibble
 
 int swapNibbles(int x)
 {
