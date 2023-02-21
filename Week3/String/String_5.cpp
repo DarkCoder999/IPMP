@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     string getDuplicateLetters(string s) {
         unordered_map <char, int> c;
