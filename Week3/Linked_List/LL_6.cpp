@@ -8,7 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+class Solution{
 public:
     double multiplyTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* temp1 = l1, *temp2 = l2;
